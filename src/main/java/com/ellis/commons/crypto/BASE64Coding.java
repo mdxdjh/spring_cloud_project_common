@@ -8,7 +8,7 @@ import java.nio.charset.CharsetDecoder;
 /**
  * BASE64的工具类 更换成调用jdk8 的高性能安全Base64 放弃sun.misc下的base64
  * 
- * @author smartlv
+ *
  */
 @SuppressWarnings("ALL")
 public class BASE64Coding

@@ -4,7 +4,7 @@ import com.ellis.commons.redis.RedisClient;
 import org.apache.commons.lang.StringUtils;
 
 /**
- * @author smartlv
+ *
  */
 public class RedisReentrantLock
 {

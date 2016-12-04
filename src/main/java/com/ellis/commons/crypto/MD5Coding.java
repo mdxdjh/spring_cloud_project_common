@@ -12,7 +12,7 @@ import java.security.NoSuchAlgorithmException;
 /**
  * 这个非常有用
  * 
- * @author smartlv
+ *
  */
 
 public class MD5Coding

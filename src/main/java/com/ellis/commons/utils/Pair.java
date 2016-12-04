@@ -5,7 +5,7 @@ import java.io.Serializable;
 /**
  * 2p，可使用Pair减少代码量
  * 
- * @author smartlv
+ *
  * @param <F>
  * @param <S>
  */

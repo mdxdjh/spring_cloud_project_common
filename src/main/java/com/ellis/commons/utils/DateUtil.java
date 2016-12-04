@@ -18,7 +18,7 @@ import static java.lang.Math.abs;
 /**
  * 日期时间工具类
  * 
- * @author smartlv
+ *
  */
 public class DateUtil
 {
