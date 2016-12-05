@@ -11,8 +11,6 @@ import java.util.List;
 
 /**
  * 数字工具类
- * 
- * @author: smartlv
  */
 public class DigitalUtil
 {
