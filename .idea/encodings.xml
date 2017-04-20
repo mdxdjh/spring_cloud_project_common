@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../demo_parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../demo_parent/service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../demo_parent/service/service-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../demo_parent/service/service-api/commons-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../demo_parent/service/service-api/goods-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../demo_parent/service/service-api/order-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../demo_parent/service/service-api/pay-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../demo_parent/service/service-api/user-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../demo_parent/service/service-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../demo_parent/service/service-impl/goods-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../demo_parent/service/service-impl/order-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../demo_parent/service/service-impl/pay-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../demo_parent/service/service-impl/service-bootstrap" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../demo_parent/service/service-impl/user-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../demo_parent/web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../demo_parent/web/web-commons" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../demo_parent/web/web-portal" charset="UTF-8" />
+  </component>
+</project>
