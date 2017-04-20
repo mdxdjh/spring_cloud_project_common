@@ -32,7 +32,7 @@ public class RedisFactory
 
     private JedisPool pool;
 
-    private RedisFactory()
+    public RedisFactory()
     {
     }
 
